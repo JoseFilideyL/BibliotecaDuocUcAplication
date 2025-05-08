@@ -87,5 +87,4 @@ public class LibroRepository {
         listaLibros.removeIf(x -> x.getId() == id);
     }
 
-dddd
 }
